@@ -2,10 +2,6 @@
 
 A simple web app that uses OpenAI to summarize long text into short, clear summaries.
 
-## 🚀 Live Demo
-
-[Open the app here](https://ai-summarizer-theta-seven.vercel.app/)
-
 ## ✨ Features
 
 - Paste any long text and get a short summary
